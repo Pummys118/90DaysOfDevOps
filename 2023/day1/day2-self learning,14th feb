@@ -1,0 +1,11 @@
+kubernetes as orchestration tool, used for microservices small apps 
+its architeture - 2 entities master and worker node
+api- application programming interface 
+scheduler - for placements of pods 
+controller manager - keeps tracks of tasks 
+etcd - backup and restore , memory of k8s
+nodes - its a vm where 1 pods = 1 containers 
+kubelet - talks to api for the pods informations
+service proxy - user commjnications for the services
+pods - smallest units in k8s
+kubectl is a tool for communication purpose 
