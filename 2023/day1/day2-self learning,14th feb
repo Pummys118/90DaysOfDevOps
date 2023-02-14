@@ -9,3 +9,9 @@ kubelet - talks to api for the pods informations
 service proxy - user commjnications for the services
 pods - smallest units in k8s
 kubectl is a tool for communication purpose 
+
+
+PYTHON LEARNING:
+Variables and its type 
+type casting 
+to make a calculator 
