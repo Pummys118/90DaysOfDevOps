@@ -1,0 +1,9 @@
+How to run frontend app, using apache which is a software inside a m/c
+set port no. 80 to run the app in aws security group
+Automating the process of building and deploying: Code > create Artifacts > store artifacts > deploy infra
+Load Balancer in routing traffic and to communicate bwn them
+Containers and docker 
+We need container to run the apps and its process as apache java-jar
+If there is no app no need of container too
+Running sample container , docker run <Image>
+to export to outer world, docker run -p 80:80 <image>
